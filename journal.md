@@ -14,6 +14,16 @@
 
  ### Week 3 (02/09/20)
 
- - I looked at the Command line training again.
+ - For an hour, I reviewed at the Command line training again.
 
- - I started doing Git and Github training again and I created a Markdown file for my Journal.
+ - In the 3rd hour, I started doing Git and Github training again and I created a new journal repository instead of opening my existig md file for my Journal. That caused a trouble when I pushed it because I had the same directory already. 
+
+ - To understand the problem I made a search and read some Git trainings for 3 hours. 
+
+ ## Week 4
+- First hour, I downloaded the Python and did some practice like assigning variables and printing it.
+ - For two hours I did the Introduction to Python training exercises in Data Camp website. It is about the first chapter about Python Basics, assigning variables and calculations with variables.
+
+ - I did the chapter two Python training exercises about creating lists, subsetting, and extending lists.
+
+ - Chapter three Python trainning exercises about some built in Functions and Packages of Python.
