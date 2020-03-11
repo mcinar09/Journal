@@ -20,10 +20,19 @@
 
  - To understand the problem I made a search and read some Git trainings for 3 hours. 
 
- ## Week 4
+ ###  Week 4
 - First hour, I downloaded the Python and did some practice like assigning variables and printing it.
  - For two hours I did the Introduction to Python training exercises in Data Camp website. It is about the first chapter about Python Basics, assigning variables and calculations with variables.
 
  - I did the chapter two Python training exercises about creating lists, subsetting, and extending lists.
 
  - Chapter three Python trainning exercises about some built in Functions and Packages of Python.
+
+
+ ### Week 5
+
+ - I installed the Jekyll. It took me an hour because I had to install a new software, MacOs Catalina to my laptop in order to install jekyll.
+
+ - I created a new website for practice. I looked at the training websites HTML on W3schools and CSS on W3schools to get some help.
+
+ - I watched some videos on Khan Academy about HTML and CSS.
