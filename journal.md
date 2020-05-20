@@ -88,4 +88,4 @@
 ## Week 14
 
 - Adding on my project
-- Creating an README Markdown file for my project.
+- Creating a README Markdown file for my project.
